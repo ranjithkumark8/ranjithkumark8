@@ -1,4 +1,6 @@
-### Hi there 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ranjithkumark8.ranjithkumark8)
+# Hi there 👋
+I am Ranjith Kumar from Hyderabad, India. I am currently learning full stack web development at Masai School. 
 
 <!--
 **ranjithkumark8/ranjithkumark8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
