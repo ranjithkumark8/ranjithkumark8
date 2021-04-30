@@ -12,7 +12,7 @@ I am Ranjith Kumar from Hyderabad, India. I am currently learning full stack web
 
 
 # Git Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumark8&layout=compact)](https://github.com/ranjithkumark8/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumark8&layout=compact)](https://github.com/ranjithkumark8/github-readme-stats)<br />
 ![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjithkumark8&show_icons=true&theme=tokyonight)
 
 ### Only Developers Can laugh at!
