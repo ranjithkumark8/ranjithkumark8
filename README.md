@@ -13,6 +13,7 @@ I am Ranjith Kumar from Hyderabad, India. I am currently learning full stack web
 
 # Git Stats
 ![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjithkumark8&show_icons=true&theme=tokyonight)<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithkumark8&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=black">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumark8&layout=compact)](https://github.com/ranjithkumark8/github-readme-stats)
 
 # 📫 How to reach me: <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='20'>](https://hashnode.com/@ranjithkumark8) <span width="20"></span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ranjithkumark8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://ranjithkumark8.github.io./)  
