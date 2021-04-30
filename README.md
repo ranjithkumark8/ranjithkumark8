@@ -19,7 +19,9 @@ I am Ranjith Kumar from Hyderabad, India. I am currently learning full stack web
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 📫 Reach out to me! <br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='20'>](https://hashnode.com/@ranjithkumark8) <span width="20"></span>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ranjithkumark8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://ranjithkumark8.github.io./)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='20'>](https://hashnode.com/@ranjithkumark8) Hashnode <br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ranjithkumark8//) Linked In <br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://ranjithkumark8.github.io./)  Portfolio
 
 <!--
 **ranjithkumark8/ranjithkumark8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
