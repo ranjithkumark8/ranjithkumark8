@@ -3,7 +3,7 @@
 I am Ranjith Kumar from Hyderabad, India. I am currently learning full stack web development at Masai School. 
 - 😄 Pronouns: He/His or TeamMaker😉
 - 🌱 I’m currently learning and building projects using Mern Stack
-- 👯 I’m looking to collaborate on Open Source Projects 
+- 👯 I’m actively looking for oppurtunities in full stack web development. 
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉 
  
 # Tech & Tools Preference
