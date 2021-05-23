@@ -15,8 +15,6 @@ I am Ranjith Kumar from Hyderabad, India. I am currently learning full stack web
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumark8&layout=compact)](https://github.com/ranjithkumark8/github-readme-stats)<br />
 ![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjithkumark8&show_icons=true&theme=tokyonight)
 
-### Only Developers Can laugh at!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 📫 Reach out to me! <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='20'>](https://hashnode.com/@ranjithkumark8) Hashnode <br />
